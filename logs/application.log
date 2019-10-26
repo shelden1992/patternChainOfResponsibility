@@ -1,0 +1,435 @@
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.92525
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.92525
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.92525
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.92525
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.TwoPercentForJuridical - Bank account in payment = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.TwoPercentForJuridical - Percent is = 19.701
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.TwoPercentForJuridical - Bank account in payment = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.TwoPercentForJuridical - Percent is = 19.701
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 965.3489999999999
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.826745
+INFO main org.courses.paymentSystem.bankTaxes.TwoPercentForJuridical - Bank account in payment = 960.522255
+INFO main org.courses.paymentSystem.bankTaxes.TwoPercentForJuridical - Percent is = 19.2104451
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.TwoPercentForJuridical - Bank account in payment = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.TwoPercentForJuridical - Percent is = 19.701
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4950.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985050.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4950.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - Bank account in payment = 985050.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - Percent is = 49252.5
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985050.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4950.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - Bank account in payment = 985050.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - Percent is = 49252.5
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 935797.5
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4950.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - Bank account in payment = 985050.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - Percent is = 49252.5
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 935797.5
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - It's last operation, take you cash = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.OnePercentBasisOperation - Percent is = 10.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 990.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 4.95
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 985.05
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 2 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 5 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 10 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - It's last operation, take you cash = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Sorry you can take off only 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Amount should be in multiple of 100s.
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Amount should be in multiple of 100s.
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 2 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - It's last operation, take you cash = 95.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - It's last operation, take you cash = 95.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - It's last operation, take you cash = 95.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 2 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 95.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 95.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 95.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 2 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 95.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 95.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 95.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 2 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 95.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 95.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 95.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 100.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 100.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Sorry you can take off only 995.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 2 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 100.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 100.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 100.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 100.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 0.0
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Left in your account cash = 0.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 2 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Sorry you can take off only 995.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Amount should be in multiple of 100
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Amount should be in multiple of 100
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Amount should be in multiple of 100
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Amount should be in multiple of 100
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Amount should be in multiple of 100
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 100 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Amount should be in multiple of 100
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH500Dispenser - Dispense 1 of 500 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 2 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Bank account in payment = 1000.0
+INFO main org.courses.paymentSystem.bankTaxes.HalfPercentForPreferential - Percent is = 5.0
+INFO main org.courses.paymentSystem.additionalTaxesAndOperation.TaxesForLargeAmountMore100_000 - It's last operation, take you cash = 995.0
+INFO main org.courses.paymentSystem.currency.ATMDispenser - Enter amount to dispense
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - Dispense 1 of 200 UAH
+INFO main org.courses.paymentSystem.currency.UAH200Dispenser - You are take all money
+INFO main org.courses.PaymentApp - 795.0
